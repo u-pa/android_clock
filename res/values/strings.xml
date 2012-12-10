@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">clock</string>
+    <string name="text_start">動作中</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">clock</string>
+    <string name="text_stop">停止中</string>
+
+</resources>
